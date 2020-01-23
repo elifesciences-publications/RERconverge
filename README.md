@@ -2,6 +2,9 @@
 
 RERconverge is a set of software written in R that estimates the correlation between relative evolutionary rates of genes and the evolution of a convergent binary or continuous trait across a phylogeny.
 
+### This code is associated with the paper from Kowalczyk et al., "Pan-mammalian analysis of molecular constraints underlying extended lifespan". eLife, 2020. http://dx.doi.org/10.7554/eLife.51089
+
+
 ## Getting Started
 
 Please refer to the [Install page](https://github.com/nclark-lab/RERconverge/wiki/Install) for detailed instructions to **install** RERconverge from scratch. For more information on running RERconverge, please see the [full documentation](https://github.com/nclark-lab/RERconverge/blob/master/RERconverge-master.pdf) and [R vignettes](https://github.com/nclark-lab/RERconverge/wiki/Vignettes) for a nice step-by-step tutorial.
